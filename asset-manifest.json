@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dotizer/static/css/main.e8b019ea.chunk.css",
+    "main.css": "/dotizer/static/css/main.dc5174a7.chunk.css",
     "main.js": "/dotizer/static/js/main.fb8fd59c.chunk.js",
     "main.js.map": "/dotizer/static/js/main.fb8fd59c.chunk.js.map",
     "runtime-main.js": "/dotizer/static/js/runtime-main.eebe4081.js",
@@ -9,18 +9,19 @@
     "static/js/2.fa8e6fee.chunk.js": "/dotizer/static/js/2.fa8e6fee.chunk.js",
     "static/js/2.fa8e6fee.chunk.js.map": "/dotizer/static/js/2.fa8e6fee.chunk.js.map",
     "index.html": "/dotizer/index.html",
-    "precache-manifest.d0d46e5b6263310a9476ef2892753457.js": "/dotizer/precache-manifest.d0d46e5b6263310a9476ef2892753457.js",
+    "precache-manifest.49e9f29837a696ea023971d343662faa.js": "/dotizer/precache-manifest.49e9f29837a696ea023971d343662faa.js",
     "service-worker.js": "/dotizer/service-worker.js",
     "static/css/2.e61fc129.chunk.css.map": "/dotizer/static/css/2.e61fc129.chunk.css.map",
-    "static/css/main.e8b019ea.chunk.css.map": "/dotizer/static/css/main.e8b019ea.chunk.css.map",
+    "static/css/main.dc5174a7.chunk.css.map": "/dotizer/static/css/main.dc5174a7.chunk.css.map",
     "static/js/2.fa8e6fee.chunk.js.LICENSE.txt": "/dotizer/static/js/2.fa8e6fee.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/dotizer/static/media/Everson Mono.5517b5d1.ttf",
     "static/media/UploadIcon.svg": "/dotizer/static/media/UploadIcon.1cedb6e9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eebe4081.js",
     "static/css/2.e61fc129.chunk.css",
     "static/js/2.fa8e6fee.chunk.js",
-    "static/css/main.e8b019ea.chunk.css",
+    "static/css/main.dc5174a7.chunk.css",
     "static/js/main.fb8fd59c.chunk.js"
   ]
 }

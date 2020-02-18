@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dotizer/precache-manifest.d0d46e5b6263310a9476ef2892753457.js"
+  "/dotizer/precache-manifest.49e9f29837a696ea023971d343662faa.js"
 );
 
 self.addEventListener('message', (event) => {
